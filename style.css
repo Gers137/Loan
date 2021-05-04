@@ -28,22 +28,15 @@ nav ul li a{
     text-decoration: none;
     color: #141414;
 }
-.info{
-    margin-left: 8%;
+.contact{
+    margin-left: 45%; 
+
 }
-.info h1{
+.contact h1{
+    align-items: center;
     font-size: 70px;
     color: #212121;
     margin-bottom: 20px;
-}
-span{
-    color: #ff4321;
-}
-.info p{
-    color: #606163;
-    line-height: 22px;
-}
-.info h1{
     background: #212121;
     padding: 10px 18px;
     text-decoration: none;
@@ -51,4 +44,21 @@ span{
     display: inline-block;
     margin: 30px 0;
     border-radius: 5px;
+}
+.dealchecker{
+    margin-left: 45%;
+    cursor: pointer;
+}
+.dealchecker h1{
+    font-size: 70px;
+    color: #212121;
+    margin-bottom: 20px;
+    background: #212121;
+    padding: 10px 18px;
+    text-decoration: none;
+    color: #fff;
+    display: inline-block;
+    margin: 30px 0;
+    border-radius: 5px;
+    cursor: pointer;
 }
