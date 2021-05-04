@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.back{
+    height: 100vh;
+    width: 100%;
+    background: #bbffa0cb;
+    font-family: sans-serif;
+    position: fixed;
+}
+nav{
+    width:85%;
+    margin: auto;
+    padding: 20px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: absolute;
+    left: 60%;
+}
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 10px 20px;
+}
